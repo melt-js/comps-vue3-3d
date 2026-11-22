@@ -3,30 +3,30 @@
     "name": "comps-vue3-3d",
     "app_group_name": "comps-vue3-3d",
     "git_repo_url": "",
-    "online_version": "2026.11.22",
-    "build_version": "2026.11.22",
+    "online_version": "2026.11.23",
+    "build_version": "2026.11.23",
     "platform": "unpkg",
-    "create_at": "2026-11-22T06:35:11.835Z"
+    "create_at": "2026-11-22T20:27:49.368Z"
   },
   "version": {
     "plugin_ver": "5.4.3",
     "extract_mode": "build",
     "sub_app_name": "comps-vue3-3d",
-    "sub_app_version": "comps-vue3-3d@2026.11.22",
-    "version_tag": "2026.11.22",
+    "sub_app_version": "comps-vue3-3d@2026.11.23",
+    "version_tag": "2026.11.23",
     "src_map": {
       "webDirPath": "/comps-vue3-3d/hel_dist",
       "htmlIndexSrc": "/comps-vue3-3d/hel_dist/index.html",
       "extractMode": "all",
       "iframeSrc": "",
       "chunkCssSrcList": [
-        "/comps-vue3-3d/hel_dist/assets/style-WNTiEeJO.css"
+        "/comps-vue3-3d/hel_dist/assets/style-BbuXHUX4.css"
       ],
       "chunkJsSrcList": [
-        "/comps-vue3-3d/hel_dist/assets/index-BvMc7gSi.js",
+        "/comps-vue3-3d/hel_dist/assets/index-snjV0HNv.js",
         "/comps-vue3-3d/hel_dist/assets/preload-helper-D_DC_oSw.js",
-        "/comps-vue3-3d/hel_dist/assets/shared-runtime-BEfC2jpb.js",
-        "/comps-vue3-3d/hel_dist/assets/vendor-B47NgYW-.js"
+        "/comps-vue3-3d/hel_dist/assets/shared-runtime-BccNjjx_.js",
+        "/comps-vue3-3d/hel_dist/assets/vendor-Cv5ELhEm.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [
@@ -46,7 +46,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-vue3-3d/hel_dist/assets/index-BvMc7gSi.js",
+            "src": "/comps-vue3-3d/hel_dist/assets/index-snjV0HNv.js",
             "type": "module",
             "crossorigin": ""
           }
@@ -64,7 +64,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue3-3d/hel_dist/assets/vendor-B47NgYW-.js",
+            "href": "/comps-vue3-3d/hel_dist/assets/vendor-Cv5ELhEm.js",
             "rel": "modulepreload",
             "crossorigin": ""
           }
@@ -73,7 +73,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue3-3d/hel_dist/assets/shared-runtime-BEfC2jpb.js",
+            "href": "/comps-vue3-3d/hel_dist/assets/shared-runtime-BccNjjx_.js",
             "rel": "modulepreload",
             "crossorigin": ""
           }
@@ -82,7 +82,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue3-3d/hel_dist/assets/style-WNTiEeJO.css",
+            "href": "/comps-vue3-3d/hel_dist/assets/style-BbuXHUX4.css",
             "rel": "stylesheet",
             "crossorigin": ""
           }
@@ -90,15 +90,15 @@
       ],
       "bodyAssetList": [],
       "otherSrcList": [
-        "/comps-vue3-3d/hel_dist/assets/index-BvMc7gSi.js.gz",
-        "/comps-vue3-3d/hel_dist/assets/vendor-B47NgYW-.js.gz",
+        "/comps-vue3-3d/hel_dist/assets/index-snjV0HNv.js.gz",
+        "/comps-vue3-3d/hel_dist/assets/vendor-Cv5ELhEm.js.gz",
         "/comps-vue3-3d/hel_dist/index.html"
       ],
       "srvModSrcList": [],
       "srvModSrcIndex": ""
     },
-    "html_content": "<!doctype html>\n<html lang=\"zh-CN\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>comps-vue3-3d · three.js 组件</title>\n    <script data-helappend=\"0\" src=\"https://unpkg.com/vue@3.5.45/dist/vue.global.js\"></script>\n    <script type=\"module\" crossorigin src=\"/comps-vue3-3d/hel_dist/assets/index-BvMc7gSi.js\"></script>\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-3d/hel_dist/assets/preload-helper-D_DC_oSw.js\">\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-3d/hel_dist/assets/vendor-B47NgYW-.js\">\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-3d/hel_dist/assets/shared-runtime-BEfC2jpb.js\">\n    <link rel=\"stylesheet\" crossorigin href=\"/comps-vue3-3d/hel_dist/assets/style-WNTiEeJO.css\">\n  </head>\n  <body>\n    <div id=\"comps-vue3-3d-demo\"></div>\n  </body>\n</html>\n",
-    "create_at": "2026-11-22T06:35:11.835Z",
+    "html_content": "<!doctype html>\n<html lang=\"zh-CN\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>comps-vue3-3d · three.js 组件</title>\n    <script data-helappend=\"0\" src=\"https://unpkg.com/vue@3.5.45/dist/vue.global.js\"></script>\n    <script type=\"module\" crossorigin src=\"/comps-vue3-3d/hel_dist/assets/index-snjV0HNv.js\"></script>\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-3d/hel_dist/assets/preload-helper-D_DC_oSw.js\">\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-3d/hel_dist/assets/vendor-Cv5ELhEm.js\">\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-3d/hel_dist/assets/shared-runtime-BccNjjx_.js\">\n    <link rel=\"stylesheet\" crossorigin href=\"/comps-vue3-3d/hel_dist/assets/style-BbuXHUX4.css\">\n  </head>\n  <body>\n    <div id=\"comps-vue3-3d-demo\"></div>\n  </body>\n</html>\n",
+    "create_at": "2026-11-22T20:27:49.368Z",
     "desc": "this version meta is created by hel-dev-utils@5.4.3"
   }
 }
